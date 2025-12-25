@@ -30,3 +30,14 @@ Clone the repository.
 Check the Schematics folder for the EasyEDA/PDF design files.
 
 Use the Raspberry Pi Pico SDK or Arduino IDE (with RP2040 support) to program the board.
+
+### Project Layout and Schematics
+
+#### Schematic View
+![Schematic](sheet1.png)
+
+#### PCB Design - Top Layer
+![Top Layer](Top%20layer.png)
+
+#### PCB Design - Bottom Layer
+![Bottom Layer](Bottom%20layer.png)
