@@ -44,11 +44,11 @@ Use the Raspberry Pi Pico SDK or Arduino IDE (with RP2040 support) to program th
 ![Bottom Layer](Bottom%20layer.png)
 
 ### 3. Schematic Design
-#### System Overview & Ethernet
+#### System Overview 
 ![Schematic Sheet 1](sheet1.png)
 
-#### Power & Connectors
+#### Power & Ethernet 
 ![Schematic Sheet 2](sheet2.png)
 
-#### MCU & Pinout
+#### Connectors
 ![Schematic Sheet 3](sheet3.png)
